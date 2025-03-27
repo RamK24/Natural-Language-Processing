@@ -1,0 +1,2 @@
+### Fine-Tuning Large Language Models (LLMs) with PyTorch.
+This repository contains a Jupyter Notebook that demonstrates how to fine-tune Large Language Models (LLMs) using an explicit training loop in PyTorch. The notebook leverages models from the [Hugging Face Transformers](https://huggingface.co/transformers/) library and provides examples of selective fine-tuning, where only specific layers of the model are updated while others remain frozen.
